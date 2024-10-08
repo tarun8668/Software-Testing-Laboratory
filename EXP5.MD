@@ -1,7 +1,6 @@
 ### Ex.No: 5 Write a program in Python language to search a given element is present in the list using Binary search. Introspect the causes for its failure and write down the possible reasons for its failure.
 
-### DATE:27.09.2024
-### REGISTER NUMBER : 212222040099
+### REGISTER NUMBER : 212222040171
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
