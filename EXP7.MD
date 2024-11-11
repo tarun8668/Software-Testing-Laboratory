@@ -1,4 +1,4 @@
-# Ex.No: 7 Sorting.
+# Ex.No: 7 Sorting
                                                                 
 ### REGISTER NUMBER :  212222040171
 ### AIM: 
